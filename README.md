@@ -1,2 +1,2 @@
-# LDCyril.github.io
-Here my first website, though hosted online thanks to GitHub Pages
+# BetterMotherFuckingWebsite
+Repository containing the code of my BetterMotherFuckingwebsite version. (The online version link is in the README.md file)
